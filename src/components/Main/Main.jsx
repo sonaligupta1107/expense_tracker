@@ -15,7 +15,7 @@ const Main = () => {
                     <Typography align='center' variant='h5'>Balance ₹5,00,000</Typography>
                     <Typography variant='subtitle1' style={{ lineHeight: '1.5em', marginTop: '20px' }}>
                         {/* Info Card */}
-                        Try Saying : add income for 2000 in category salary for monday...
+                        Try Saying : add income for 2000 rs in category salary for next monday...
                     </Typography>
                     <Divider />
                     <Form />
